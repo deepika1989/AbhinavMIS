@@ -1,0 +1,70 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "org.abhinavsociety.abhinav"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "org.abhinavsociety.abhinav"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "org.abhinavsociety.abhinav"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "org.abhinavsociety.abhinav"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "org.abhinavsociety.abhinav"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "org.abhinavsociety.abhinav"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "org.abhinavsociety.abhinav"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "org.abhinavsociety.abhinav"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "org.abhinavsociety.abhinav"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "org.abhinavsociety.abhinav"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "org.abhinavsociety.abhinav"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "org.abhinavsociety.abhinav"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "org.abhinavsociety.abhinav"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "org.abhinavsociety.abhinav"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "org.abhinavsociety.abhinav"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "org.abhinavsociety.abhinav"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "org.abhinavsociety.abhinav"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "org.abhinavsociety.abhinav"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "org.abhinavsociety.abhinav"
+        }
+    }
+}
